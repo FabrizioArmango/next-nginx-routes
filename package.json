@@ -35,5 +35,8 @@
     "lint": "eslint *.js",
     "test": "jest",
     "release": "standard-version"
+  },
+  "dependencies": {
+    "yargs": "^17.6.0"
   }
 }
